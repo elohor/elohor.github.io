@@ -56,7 +56,7 @@ th, td {
 }
 
 tr:nth-child(even){
-    background-color: #d3d3d3
+    background-color: #d3d3d3;
 }
 
 th {
@@ -81,6 +81,9 @@ input[type=text] {
 }
 #contactform{
     margin: 50px;
+}
+i {
+    background-color: #668cff;
 }
 
 .icons {
