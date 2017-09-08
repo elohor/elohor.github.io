@@ -1,15 +1,20 @@
-# elohor.github.io
+## Elohor's Web Profile
+![Elo](elohorport.jpg)
+This is a simple web profile showing: 
+* My Skills
+* My Contact Details
 
-1. fvghjkl;
-2. dgfhjkl
-3. gfhjkl
 
-[elohor](https://fb.com/elohor) :sparkles: :sparkles: :sparkles:
+Pages |
+------------ |
+Home |
+About |
+Contact| 
 
-![Elo](elohor.jpg)
 
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+:octocat: [For more details](https://github.com/elohor) 
+
+
+
+
 
